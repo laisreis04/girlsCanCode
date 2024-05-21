@@ -1,5 +1,5 @@
+<img src="https://github.com/laisreis04/girlsCanCode/assets/116274581/ab5f6539-bf85-43f8-9628-38be3c420a7c" width="600px">
 
-<body>
 
 <h1>Girls Can Code App</h1>
 
