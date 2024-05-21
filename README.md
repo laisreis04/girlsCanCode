@@ -21,5 +21,21 @@
 <h2>Project Origin</h2>
 <p>The proposal came from CESAE school, which already has an active project but wanted an app to improve their communication.</p>
 
+<h2>Features</h2>
+<ul>
+    <li><strong>Visibility:</strong> Admin view and User view. It's possible to switch between views.</li>
+    <li><strong>Admin View:</strong> Allows editing events and courses, and managing users and admins.</li>
+    <li><strong>User View:</strong> Users can complete the login process by entering their details.</li>
+    <li><strong>Notifications:</strong> Users receive notifications about available events and courses.</li>
+    <li><strong>Database:</strong> The app uses Google's Firebase for its database.</li>
+</ul>
+
+<h2>Screenshot</h2>
+
+<p>Below is a screenshot of the app:</p>
+<img src="https://github.com/laisreis04/girlsCanCode/assets/116274581/bebd1b80-91bc-4537-93c9-1d771d0bec9d" width="200">
+<img src="https://github.com/laisreis04/girlsCanCode/assets/116274581/44a67449-f63e-42cf-823a-8b8a46b98900" width="200">
+<img src="https://github.com/laisreis04/girlsCanCode/assets/116274581/6d21edb2-b424-41a5-ab47-49b5cb658c48" width="200">
+
 </body>
 </html>
